@@ -33,7 +33,7 @@ I bridge the gap between technical execution and business strategy, ensuring eng
 
 #### **Engineering Culture & Delivery**
 * **Continuous Excellence:** Embedded a culture of continuous improvement and delivery, focusing on long-term platform health.
-* **Data-Driven Growth:** Improved **DORA metrics** through technical coaching, automation, and data-led feedback loops.
+* **Data-Driven Growth:** Improved **software delivery and DX metrics** through technical coaching, automation, and data-led feedback loops.
 * **Standards & Infrastructure:** Established core engineering standards and delivered secure, scalable infrastructure.
 
 #### **Strategic Impact & Business Alignment**
