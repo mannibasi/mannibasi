@@ -13,7 +13,7 @@ I maintain an active, polyglot technical skillset focused on automation, securit
 * **Languages:** Java, C#, Go, Python, TypeScript, SQL, Bash.
 * **Cloud & DevOps:** AWS, Azure, Kubernetes, Docker, Terraform, Ansible.
 * **Architecture:** Microservices, Event Sourcing, CQRS, REST, Monolith.
-* **Engineering Craft:** TDD/BDD, Trunk-Based Development, CI/CD, and DORA metrics.
+* **Engineering Craft:** TDD/BDD, Trunk-Based Development, CI/CD, and DORA/SPACE/DX metrics.
 
 ---
 
