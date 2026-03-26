@@ -2,7 +2,7 @@
 
 I am a **Software Engineering Leader** with 20 years of experience building and modernizing high-scale FinTech platforms. I balance a strong hands-on technical foundation with the ability to lead empowered, high-performing teams. I am equally at home defining engineering strategy as I am architecting solutions or diving into the code.
 
-I am currently working as a **Lead Software Engineer** at **Griffiths Waite** (a technology consultancy that builds custom AI products for large enterprises, helping leaders move beyond experimentation and deliver measurable business impact).
+I am currently working as a **Lead Software Engineer** at **GW** (a technology consultancy that builds custom AI products for large enterprises, helping leaders move beyond experimentation and deliver measurable business impact).
 
 ---
 
